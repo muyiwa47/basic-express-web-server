@@ -10,6 +10,8 @@ This repo demostrates the basic structure of an express.js web server working wi
 
 1. git clone the repo
 
+2. change into the cloned directory
+
 2. npm install
 
 3. goto localhost:3000
